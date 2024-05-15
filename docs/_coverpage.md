@@ -1,4 +1,4 @@
-![logo](logo.svg)
+![logo](风华logo.ico)
 
 # TlbbBox <small>0.16.10</small>
 
